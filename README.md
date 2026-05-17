@@ -10,10 +10,7 @@
   <img alt="Earth Engine" src="https://img.shields.io/badge/Google%20Earth%20Engine-API-4285F4?logo=googleearth&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/Status-Dissertation%20Research-blueviolet">
-  <!--
-  Once you mint a DOI on Zenodo (see docs/ZENODO.md), uncomment and edit:
-  <a href="https://doi.org/10.5281/zenodo.XXXXXXX"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg"></a>
-  -->
+  <a href="https://doi.org/10.5281/zenodo.20259081"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.20259081.svg"></a>
 </p>
 
 <p align="center">

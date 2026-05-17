@@ -33,7 +33,7 @@ from tqdm import tqdm
 #   Hugging Face:  https://huggingface.co/<user>/<repo>/resolve/main/Best_model.pkl
 #   Google Drive:  use a "direct download" URL, not a sharing link
 # ---------------------------------------------------------------
-MODEL_URL: str = "https://example.com/replace-with-your-hosted-model.pkl"
+MODEL_URL: str = "https://zenodo.org/records/20259081/files/Best_model.pkl?download=1"
 
 # Pre-computed SHA-256 of the canonical Best_model.pkl produced by
 # notebooks/03_model_building.ipynb.  Do not modify unless you re-train.

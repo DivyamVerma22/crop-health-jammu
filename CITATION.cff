@@ -16,8 +16,8 @@ authors:
 repository-code: "https://github.com/DivyamVerma22/crop-health-jammu"
 # TODO Uncomment and edit the following two lines once a Zenodo DOI has
 # been minted (see docs/ZENODO.md):
-# doi: "10.5281/zenodo.XXXXXXX"
-# url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+doi: "https://doi.org/10.5281/zenodo.20259081"
+url: "https://doi.org/10.5281/zenodo.20259081"
 abstract: >-
   This work presents an end-to-end pipeline for spatio-temporal
   crop health assessment in the Jammu region of India. Multi-
