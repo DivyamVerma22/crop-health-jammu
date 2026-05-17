@@ -1,3 +1,4 @@
+Status: completed for v1.0.0. Concept DOI: 10.5281/zenodo.20259081. This document is retained for reference and future versioning.
 # Hosting the Model on Zenodo &amp; Minting a DOI
 
 A Zenodo deposit turns the trained model from a private file into a citeable, version-pinned research output, gives the repository a persistent DOI, and produces the badge that appears at the top of the main `README.md`. The process is free, takes about ten minutes, and only needs to be done once per dissertation version.
