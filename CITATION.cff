@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: >-
+  Spatio-Temporal Crop Health Assessment for the Jammu Region
+  using Multi-Source Remote Sensing and Machine Learning
+message: >-
+  If you use this software or methodology, please cite it
+  using the metadata in this file.
+type: software
+authors:
+  # TODO Replace the three placeholders below with your own details
+  # before making the repository public. Remove the orcid line if you
+  # do not yet have an ORCID iD (free to register at https://orcid.org).
+  - given-names: "Divyam"
+    family-names: "Verma"
+    affiliation: "DY Patil University, Navi mumbai"
+repository-code: "https://github.com/DivyamVerma22/crop-health-jammu"
+# TODO Uncomment and edit the following two lines once a Zenodo DOI has
+# been minted (see docs/ZENODO.md):
+# doi: "10.5281/zenodo.XXXXXXX"
+# url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+abstract: >-
+  This work presents an end-to-end pipeline for spatio-temporal
+  crop health assessment in the Jammu region of India. Multi-
+  source Earth observation data — Sentinel-2 surface reflectance,
+  MODIS land-surface temperature, and CHIRPS precipitation — are
+  harmonised over 150 fixed sampling points to derive seven
+  vegetation and hydro-climatic features. A composite Crop Health
+  Score is modelled with classical and deep-learning regressors
+  under a strict temporal hold-out, interpreted via SHAP, and
+  extended to recursive multi-step forecasting. A Streamlit
+  application exposes the trained model for on-demand,
+  coordinate-level prediction.
+keywords:
+  - remote sensing
+  - precision agriculture
+  - crop health
+  - Sentinel-2
+  - MODIS
+  - CHIRPS
+  - Google Earth Engine
+  - machine learning
+  - time series forecasting
+  - Jammu and Kashmir
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-17"

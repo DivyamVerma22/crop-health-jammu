@@ -1,0 +1,10 @@
+## Track large model artefacts with Git LFS
+models/*.pkl     filter=lfs diff=lfs merge=lfs -text
+models/*.joblib  filter=lfs diff=lfs merge=lfs -text
+models/*.h5      filter=lfs diff=lfs merge=lfs -text
+models/*.keras   filter=lfs diff=lfs merge=lfs -text
+models/*.pt      filter=lfs diff=lfs merge=lfs -text
+models/*.onnx    filter=lfs diff=lfs merge=lfs -text
+
+## Keep notebooks diff-friendly on GitHub
+*.ipynb linguist-language=Jupyter+Notebook

@@ -1,0 +1,89 @@
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.installed.cfg
+*.egg
+
+# ---------------------------------------------------------------
+# Virtual environments
+# ---------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.envrc
+
+# ---------------------------------------------------------------
+# Jupyter
+# ---------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ---------------------------------------------------------------
+# IDEs & editors
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------
+# Project: data & artefacts
+# Large datasets and trained models are tracked externally, NOT in Git.
+# Only the contents of data/sample/ are committed.
+# ---------------------------------------------------------------
+data/raw/
+data/processed/
+data/interim/
+data/external/
+data/*.csv
+!data/sample/
+!data/sample/**
+
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.onnx
+
+# Streamlit cache & secrets
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# ---------------------------------------------------------------
+# Google Earth Engine credentials
+# ---------------------------------------------------------------
+*.json
+!CITATION.cff
+.config/earthengine/
+~/.config/earthengine/
+
+# ---------------------------------------------------------------
+# Reports & misc outputs
+# ---------------------------------------------------------------
+reports/figures/_drafts/
+*.log
+*.tmp
+
+# ---------------------------------------------------------------
+# OS junk
+# ---------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+desktop.ini
