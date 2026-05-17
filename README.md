@@ -147,7 +147,7 @@ This project is released under the [MIT License](./LICENSE). The Sentinel-2, MOD
 
 ## 🙏 Acknowledgements
 
-This work was carried out as part of a master's dissertation in the Jammu &amp; Kashmir region. It builds upon the Google Earth Engine platform, the open Sentinel-2 mission (Copernicus / ESA), NASA MODIS, and the UCSB CHIRPS climate record. Sincere thanks to the dissertation supervisors and reviewers for their guidance.
+This work was carried out as part of a bachelor's dissertation in the Jammu &amp; Kashmir region. It builds upon the Google Earth Engine platform, the open Sentinel-2 mission (Copernicus / ESA), NASA MODIS, and the UCSB CHIRPS climate record. Sincere thanks to the dissertation supervisors and reviewers for their guidance. Speacial thanks to my parents who are my support pillars in every situation.
 
 ---
 
