@@ -139,7 +139,7 @@ Every notebook fixes the random seed where applicable, all temporal splits are d
 
 ## 📜 Citation
 
-If you use this code or methodology in academic work, please cite the dissertation via the metadata in [`CITATION.cff`](./CITATION.cff). GitHub renders this as a one-click *"Cite this repository"* button. Once a Zenodo DOI has been minted, the badge at the top of this README will resolve to the archived, version-pinned record.
+If you use this code or methodology in academic work, please cite the dissertation via the metadata in [`CITATION.cff`](./CITATION.cff). GitHub renders this as a one-click *"Cite this repository"* button. The DOI badge at the top of this README resolves to the Zenodo-archived release of the model and code: 10.5281/zenodo.20259081
 
 ## ⚖️ License
 
