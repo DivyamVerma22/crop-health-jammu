@@ -91,7 +91,7 @@ A live deployment can be hosted on [Streamlit Community Cloud](https://streamlit
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-GITHUB-USERNAME/crop-health-jammu.git
+git clone https://github.com/DivyamVerma22/crop-health-jammu.git
 cd crop-health-jammu
 
 # 2. Create an isolated environment
